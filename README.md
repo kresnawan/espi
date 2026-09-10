@@ -1,0 +1,13 @@
+# espi
+
+A simple program to generate bare-minimum C project folder for ESP8266-RTOS-SDK development, specifically on VSCode.
+
+## Usage
+Like how we usually make a project directory:
+```bash
+$ espi project_name
+```
+Or with specific location:
+```bash
+$ espi path/to/your/project
+```
