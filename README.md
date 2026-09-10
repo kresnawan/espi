@@ -3,7 +3,7 @@
 A simple program to generate bare-minimum C project folder for ESP8266-RTOS-SDK development, specifically on VSCode.
 
 ## Installation
-Simply download the binary from release page and add it to your `/bin` directory.
+Simply download the binary from release page and add it to your `/bin` directory. Or, compile the source code yourself.
 
 ## Usage
 Like how we usually make a project directory:
