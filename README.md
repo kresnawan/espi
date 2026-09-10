@@ -8,9 +8,9 @@ Simply download the binary from release page and add it to your `/bin` directory
 ## Usage
 Like how we usually make a project directory:
 ```bash
-$ espi project_name
+espi project_name
 ```
 Or with specific location:
 ```bash
-$ espi path/to/your/project
+espi path/to/your/project
 ```
